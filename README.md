@@ -17,4 +17,4 @@ Final :
 
     php artisan serve
 
-Email me if you have questions
+Email me if have questions
