@@ -7,8 +7,8 @@
 ## Installation
 First setting your .env file, import database from folder DB
 
-Second instalation on terminal:
-
+Second installation on terminal:
+   
     1. composer install
     
 Final :
